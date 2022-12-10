@@ -1,12 +1,13 @@
 # ETL-TelecomCase-SSIS
 
-##### Case Study for Extract, Transform and Load data of telecom company
+##### Case Study for Extract, Transform and Load data of telecom company  
 
 ## Table Of Contents
 - [Problem Description](#problem)
 - [Prerequisite](#pre) 
 - [Implementation](#imp)
 - [Result](#res)
+- [Resources](#reso)
 
 <a name="problem"></a>
 ## Problem Description
@@ -163,3 +164,10 @@ Destenation Errors
 Auditing
 
 ![audit](https://user-images.githubusercontent.com/47898196/206879315-908e42ce-e442-46f1-8947-761e87492671.png)
+
+
+<a name="reso"></a>
+## Resources
+This project introduced in these tutorial on YouTube channels:
+ [Garage Education](https://www.youtube.com/playlist?list=PLxNoJq6k39G_R3AA108CLE8w6n_CCCmDf),
+[Et3lm Online](https://www.youtube.com/playlist?list=PLcAbhg_RWLaK-lCH5GxnaVfyeGjrm3QH8)
