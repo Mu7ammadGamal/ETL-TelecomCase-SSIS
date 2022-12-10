@@ -10,10 +10,11 @@
 
 <a name="problem"></a>
 ## Problem Description
+
 - Telecom company system stores its transactions periodically in `.CSV` format contains:
 
 |Column Name|Data Type|Length|Is Nullable|Sample|
-||||||
+|----|----|----|----|----|
 |ID|Int||False|123|
 |IMSI|String|9|False|310120265|
 |IMEI|String|14|True|490154203237518|
@@ -22,10 +23,11 @@
 |EVENT_TYPE|String|1|True|1|
 |EVENT_TS|Timestamp||False|16/1/2020 7:45:43|
 
+
 - Transformation needed:
 
 |Column Name|Mapping Rule|Target Model|
-||||
+|----|----|----|
 |ID|As-is|Transaction_id|
 |IMSI|As-is, reject the record if null|IMSI|
 |IMSI|Join with IMSI reference and get subscriber id, replace by -99999 if null|subscriber_id|
