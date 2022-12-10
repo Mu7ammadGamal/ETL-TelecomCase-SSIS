@@ -130,7 +130,7 @@ CREATE TABLE Dim_Audit (
 )
 ```
 
-IMSI_Reference table that used to get `subscriber_id` attached this repo , check it from [here](https://github.com/Mu7ammadGamal/ETL-TelecomCase-SSIS/blob/master/IMSI%20%20Reference%20Script.sql) and excute it in the same database object `TelecomCase_GrgEdu`.
+IMSI_Reference table that used to get `subscriber_id` is attached in this repo , check it from [here](https://github.com/Mu7ammadGamal/ETL-TelecomCase-SSIS/blob/master/IMSI%20%20Reference%20Script.sql) and excute it in the same database object `TelecomCase_GrgEdu`.
 
 ##### Setup ETL Job
 
