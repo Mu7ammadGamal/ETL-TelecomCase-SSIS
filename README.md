@@ -168,6 +168,6 @@ Auditing
 
 <a name="reso"></a>
 ## Resources
-This project introduced in these tutorial on YouTube channels:
+This project introduced in these tutorials on YouTube channels:
  [Garage Education](https://www.youtube.com/playlist?list=PLxNoJq6k39G_R3AA108CLE8w6n_CCCmDf),
 [Et3lm Online](https://www.youtube.com/playlist?list=PLcAbhg_RWLaK-lCH5GxnaVfyeGjrm3QH8)
