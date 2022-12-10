@@ -156,7 +156,7 @@ Source Errors
 ![src err](https://user-images.githubusercontent.com/47898196/206879287-09e935de-cdcb-4197-a650-1e51d5ed471e.png)
 
 
-Destenation Errors
+Destination Errors
 
 ![dest err](https://user-images.githubusercontent.com/47898196/206879295-4b874cf4-3c6c-49d5-9725-8ad511a2484b.png)
 
