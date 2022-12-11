@@ -163,7 +163,7 @@ Destination Errors
 
 Auditing
 
-![audit](https://user-images.githubusercontent.com/47898196/206879315-908e42ce-e442-46f1-8947-761e87492671.png)
+![audit](https://user-images.githubusercontent.com/47898196/206880111-e788476e-9f66-4ef8-9e9e-5050a438a61c.png)
 
 
 <a name="reso"></a>
