@@ -32,8 +32,8 @@
 |ID|As-is|Transaction_id|
 |IMSI|As-is, reject the record if null|IMSI|
 |IMSI|Join with IMSI reference and get subscriber id, replace by -99999 if null|subscriber_id|
-|IMEI|First 8 chars, if null or size is less than 15 replace by -99999|TAC|
-|IMEI|Last 6 chars, if null or size is less than 15 replace by -99999|SNR|
+|IMEI|First 8 chars, if null or size is less than 14 replace by -99999|TAC|
+|IMEI|Last 6 chars, if null or size is less than 14 replace by -99999|SNR|
 |IMEI|As-is|IMEI|
 |CELL|As-is, reject the record if null|CELL|
 |LAC|As-is, reject the record if null|LAC|
